@@ -1,0 +1,22 @@
+{
+  "message": "success",
+  "status": 1,
+  "banners": [
+    {
+      "id": "5",
+      "image": "https://emansoon.com/admin/slider/0off4.jpg"
+    },
+    {
+      "id": "4",
+      "image": "https://emansoon.com/admin/slider/0off3.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://emansoon.com/admin/slider/0off2.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://emansoon.com/admin/slider/0off1.jpg"
+    }
+  ]
+}
