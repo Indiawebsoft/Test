@@ -1,0 +1,38 @@
+{
+  "status": 1,
+  "message": "Success",
+  "edit": false,
+  "view": true,
+  "delete": false,
+  "whatsapp": false,
+  "response": [
+    {
+      "roleId": 1,
+      "role": "ADMIN"
+    },
+    {
+      "roleId": 2,
+      "role": "SALES"
+    },
+    {
+      "roleId": 3,
+      "role": "INSTALLATION"
+    },
+    {
+      "roleId": 4,
+      "role": "MPEB"
+    },
+    {
+      "roleId": 5,
+      "role": "DESIGN"
+    },
+    {
+      "roleId": 6,
+      "role": "SERVICE"
+    },
+    {
+      "roleId": 7,
+      "role": "ACCOUNT"
+    }
+  ]
+}
