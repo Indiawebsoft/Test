@@ -1,0 +1,299 @@
+{
+    "status": 1,
+    "message": "Success",
+    "edit": false,
+    "view": true,
+    "delete": false,
+    "whatsapp": false,
+    "response": {
+      "createdByMe": [
+        {
+          "leadId": 37,
+          "name": "Jitendra Singh",
+          "projectCapacity": "8 KW",
+          "statusId": 2,
+          "taskId": 799,
+          "task": "hshabs",
+          "employeeName": "Vivek Mandaliya"
+        }
+      ],
+      "toDoTaskDetails": [
+        {
+          "leadId": 37,
+          "name": "Jitendra Singh",
+          "projectCapacity": "8 KW",
+          "statusId": 2,
+          "taskId": 799,
+          "task": "hshabs",
+          "employeeName": "Vivek Mandaliya"
+        },
+        {
+          "leadId": 37,
+          "name": "Jitendra Singh",
+          "projectCapacity": "8 KW",
+          "statusId": 2,
+          "taskId": 826,
+          "task": "call him",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 38,
+          "name": "Chetan Vyas Ji",
+          "projectCapacity": "null",
+          "statusId": 1,
+          "taskId": 829,
+          "task": "Task For Sale",
+          "employeeName": "gargeeenergies.trade@gmail.com"
+        },
+        {
+          "leadId": 39,
+          "name": "Ashok Kulwal",
+          "projectCapacity": "5 KW",
+          "statusId": 1,
+          "taskId": 853,
+          "task": "Task For Sale",
+          "employeeName": "gargeeenergiessales@gmail.com"
+        },
+        {
+          "leadId": 46,
+          "name": "Sadanand Upadhyay",
+          "projectCapacity": "3 KW",
+          "statusId": 1,
+          "taskId": 1032,
+          "task": "Task For Sale",
+          "employeeName": "divesh@gargeeenergies.com"
+        },
+        {
+          "leadId": 47,
+          "name": "Peaveer Bansal",
+          "projectCapacity": "8 KW",
+          "statusId": 1,
+          "taskId": 1076,
+          "task": "Task For Sale",
+          "employeeName": "gargeeenergiessales@gmail.com"
+        },
+        {
+          "leadId": 53,
+          "name": "Testing",
+          "projectCapacity": "18 KW",
+          "statusId": 1,
+          "taskId": 1224,
+          "task": "Task For Sale",
+          "employeeName": "Admin1 Shah"
+        },
+        {
+          "leadId": 57,
+          "name": "Rakesh Kumar",
+          "projectCapacity": "3 KW",
+          "statusId": 1,
+          "taskId": 1339,
+          "task": "Task For Sale",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 58,
+          "name": "Devilal Soni",
+          "projectCapacity": "5 KW",
+          "statusId": 1,
+          "taskId": 1372,
+          "task": "Task For Sale",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 59,
+          "name": "Jitendra Pathak",
+          "projectCapacity": "5 KW",
+          "statusId": 1,
+          "taskId": 1405,
+          "task": "Task For Sale",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 60,
+          "name": "Rajesh Purohit",
+          "projectCapacity": "5 KW",
+          "statusId": 1,
+          "taskId": 1438,
+          "task": "Task For Sale",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 61,
+          "name": "Mohankheda Jain Temple",
+          "projectCapacity": "240 KW",
+          "statusId": 1,
+          "taskId": 1471,
+          "task": "Task For Sale",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 62,
+          "name": "Shailendra Jain",
+          "projectCapacity": "3 KW",
+          "statusId": 1,
+          "taskId": 1504,
+          "task": "Task For Sale",
+          "employeeName": "vivek@gargeeenergies.com"
+        },
+        {
+          "leadId": 63,
+          "name": "Mukesh Ambani",
+          "projectCapacity": "1000 KW",
+          "statusId": 1,
+          "taskId": 1537,
+          "task": "Task For Sale",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 64,
+          "name": "Asad Ali",
+          "projectCapacity": "3 KW",
+          "statusId": 1,
+          "taskId": 1572,
+          "task": "Task For Sale",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 65,
+          "name": "Manish Jain",
+          "projectCapacity": "10 KW",
+          "statusId": 1,
+          "taskId": 1606,
+          "task": "Task For Sale",
+          "employeeName": "gargeeenergiessales@gmail.com"
+        },
+        {
+          "leadId": 66,
+          "name": "Asad Ali",
+          "projectCapacity": "3 KW",
+          "statusId": 1,
+          "taskId": 1639,
+          "task": "Task For Sale",
+          "employeeName": "gargeeenergiessales@gmail.com"
+        }
+      ],
+      "inProgressTaskDetails": [
+        {
+          "leadId": 37,
+          "name": "Jitendra Singh",
+          "projectCapacity": "8 KW",
+          "statusId": 2,
+          "taskId": 802,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        }
+      ],
+      "onHoldTaskDetails": [
+        {
+          "leadId": 79,
+          "name": "Nilesh Jain",
+          "projectCapacity": "20 KW",
+          "statusId": 1,
+          "taskId": 2068,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        },
+        {
+          "leadId": 80,
+          "name": "Sumit Jain",
+          "projectCapacity": "3 KW,5 KW",
+          "statusId": 1,
+          "taskId": 2101,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        },
+        {
+          "leadId": 81,
+          "name": "Ks Chouhan",
+          "projectCapacity": "300 KW",
+          "statusId": 1,
+          "taskId": 2134,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        },
+        {
+          "leadId": 82,
+          "name": "Shrikantji",
+          "projectCapacity": "10 KW",
+          "statusId": 1,
+          "taskId": 2167,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        }
+      ],
+      "doneTaskDetails": [
+        {
+          "leadId": 79,
+          "name": "Nilesh Jain",
+          "projectCapacity": "20 KW",
+          "statusId": 1,
+          "taskId": 2068,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        },
+        {
+          "leadId": 80,
+          "name": "Sumit Jain",
+          "projectCapacity": "3 KW,5 KW",
+          "statusId": 1,
+          "taskId": 2101,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        },
+        {
+          "leadId": 81,
+          "name": "Ks Chouhan",
+          "projectCapacity": "300 KW",
+          "statusId": 1,
+          "taskId": 2134,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        },
+        {
+          "leadId": 82,
+          "name": "Shrikantji",
+          "projectCapacity": "10 KW",
+          "statusId": 1,
+          "taskId": 2167,
+          "task": "Task For Sale",
+          "employeeName": "Divyam Shah"
+        },
+        {
+          "leadId": 40,
+          "name": "Vishal Milchandani Ji",
+          "projectCapacity": "null",
+          "statusId": 1,
+          "taskId": 877,
+          "task": "Task For Sale",
+          "employeeName": "account@gargeeenergies.com"
+        },
+        {
+          "leadId": 43,
+          "name": "Kelwa Polymers",
+          "projectCapacity": "null",
+          "statusId": 1,
+          "taskId": 954,
+          "task": "Task For Sale",
+          "employeeName": "gargeeenergiessales@gmail.com"
+        },
+        {
+          "leadId": 43,
+          "name": "Kelwa Polymers",
+          "projectCapacity": "null",
+          "statusId": 1,
+          "taskId": 978,
+          "task": "send him proposal",
+          "employeeName": "divyam@gargeeenergies.com"
+        },
+        {
+          "leadId": 44,
+          "name": "Vijay Gupta",
+          "projectCapacity": "8 KW",
+          "statusId": 1,
+          "taskId": 979,
+          "task": "Task For Sale",
+          "employeeName": "gargeeenergiessales@gmail.com"
+        }
+      ]
+    }
+  }
